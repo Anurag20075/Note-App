@@ -41,7 +41,7 @@ NotesApp/
 ## 📖 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/notes-manager-java.git
+   git clone https://github.com/Anurag20075/notes-manager-java.git
    cd notes-manager-java
    ```
 
