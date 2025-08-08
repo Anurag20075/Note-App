@@ -39,13 +39,14 @@ NotesApp/
 ---
 
 ## 📖 How to Run
+
 1. **Clone this repository**
    ```bash
-  [ git clone https://github.com/Anurag20075/notes-manager-java.git](https://github.com/Anurag20075/Note-App.git)
-   cd Note-App-java
-   ```
+   git clone https://github.com/Anurag20075/Note-App.git
+   cd Note-App
 
 2. **Compile the Java files**
+
    ```bash
    javac Main.java NoteManager.java Note.java
    ```
